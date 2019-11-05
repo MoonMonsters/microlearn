@@ -1,0 +1,38 @@
+    {
+        "hosts": {
+            "database": {
+                "name": "JSON",
+                "address": "10.0.0.1",
+                "port": 3306
+            }
+        },
+        "hosttwo": {
+            "name": "JSON",
+            "address": "10.0.0.1",
+            "port": 3306
+        },
+        "hostthree": {
+            "database": {
+                "name": "JSON",
+                "address": "10.0.0.1",
+                "port": 3306
+            }
+        },
+        "hostfour": [
+            {
+                "name": "JSON",
+                "address": "10.0.0.1",
+                "port": 3306
+            },
+            {
+                "name": "JSON",
+                "address": "10.0.0.1",
+                "port": 3306
+            },
+            {
+                "name": "JSON",
+                "address": "10.0.0.1",
+                "port": 3306
+            }
+        ]
+    }
